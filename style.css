@@ -96,10 +96,14 @@ h2 {
     }
 
     h2 {
-        padding-top: 20px;
+        padding: 0;
     }
 
     .first-card {
         padding-top: 30px;
+    }
+
+    .second-card {
+        padding-top: 35px;
     }
 }
