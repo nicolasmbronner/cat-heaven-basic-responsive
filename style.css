@@ -73,6 +73,7 @@ h2 {
 
     .logo {
         width: 150px;
+        margin-left: 20px;
     }
 
     h1 {
@@ -96,7 +97,7 @@ h2 {
     }
 
     h2 {
-        padding: 0;
+        padding: 0 10px 0 10px;
     }
 
     .first-card {
@@ -105,5 +106,13 @@ h2 {
 
     .second-card {
         padding-top: 35px;
+    }
+
+    .description {
+        padding: 0 10px 0 10px;
+    }
+
+    .footer  {
+        padding-right: 10px;
     }
 }
